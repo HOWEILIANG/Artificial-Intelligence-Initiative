@@ -13,15 +13,21 @@ To share something fundamental on AI for beginner
 1. MLPs
 
 ## Keras
-
+TBA
 
 ## Scikit-Learn
-
+TBA
 
 
 # Resource
 ## Books
 1. Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition
+2. The Hundred-Page Machine Learning Book by Andriy Burkov
+3. Make Your Own Neural Network by Tariq Rashid
+4. Deep Learning with Python, Second Edition by François Chollet
+5. Deep Learning by Aaron Courville, Ian Goodfellow, and Yoshua Bengio
+6. An Introduction to Statistical Learning: With Applications in R
+
 
 ## Websites
 1. YouTube Playlists on **Machine Learning Foundation** by Laurence Moroney
