@@ -1,4 +1,4 @@
-# Artificial-Intelligence-Initiative
+# Artificial-Intelligence (AI)-Initiative
 To share something fundamental on AI for beginner
 
 
