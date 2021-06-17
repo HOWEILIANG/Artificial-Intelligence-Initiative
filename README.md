@@ -9,7 +9,7 @@ To share something fundamental on AI for beginner
 
 
 # Focus on
-## Tensorflow
+## Tensorflow 2.0
 1. MLPs
 
 ## Keras
